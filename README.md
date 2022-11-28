@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @S1eghart
+- 👋 Hi, I’m Bryce, aka @S1eghart
 - 👀 I’m interested in Game Development and Design
-- 🌱 I’m currently learning at the Polytechnic University of the Philippines
+- 🌱 I recently finished my bachelors degree in Computer Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, just send me an email on belenciobrycegiom@gmail.com
 
